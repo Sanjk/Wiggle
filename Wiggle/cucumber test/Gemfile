@@ -1,0 +1,15 @@
+source 'http://rubygems.org'
+
+gem 'cucumber'
+gem 'rspec'
+gem 'page-object'
+gem 'rake'
+gem 'bundler'
+gem 'faker'
+gem 'ffi'
+gem 'gherkin'
+gem 'rake'
+gem 'selenium-webdriver'
+gem 'watir-webdriver'
+gem 'data_magic'
+

@@ -1,0 +1,121 @@
+[0.001][INFO]:      ChromeDriver 23.0.1240.0 C:\chromedriver\chromedriver.exe
+[0.553][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.detach": true,
+   "chromeOptions": {
+      "detach": true
+   },
+   "cssSelectorsEnabled": true,
+   "javascriptEnabled": true,
+   "nativeEvents": false,
+   "platform": "ANY",
+   "rotatable": false,
+   "takesScreenshot": false,
+   "version": ""
+}
+
+[0.554][INFO]:      Using named testing interface
+[1.307][INFO]:      Connected to Chrome successfully. Version: 25.0.1354.0
+[1.314][FINE]:      Command received (/session/1c8736f0fef37f51c757ae10371ea5d9)
+[1.314][FINE]:      Command finished (/session/1c8736f0fef37f51c757ae10371ea5d9) with response {
+   "sessionId": "1c8736f0fef37f51c757ae10371ea5d9",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "23.0.1240.0",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "windows",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "25.0.1354.0",
+      "webStorageEnabled": true
+   }
+}
+
+[1.325][FINE]:      Command received (/session/1c8736f0fef37f51c757ae10371ea5d9/url) with params {
+   "url": "http://wiggle.com/secure/myaccount/logon?returnurl=%2F"
+}
+
+[1.325][FINER]:     Waiting for all views to stop loading...
+[1.326][FINER]:     Done waiting for all views to stop loading
+[12.789][FINER]:    Waiting for all views to stop loading...
+[12.793][FINER]:    Done waiting for all views to stop loading
+[12.794][FINE]:     Command finished (/session/1c8736f0fef37f51c757ae10371ea5d9/url) with response {
+   "sessionId": "1c8736f0fef37f51c757ae10371ea5d9",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[12.795][FINE]:     Command received (/session/1c8736f0fef37f51c757ae10371ea5d9/url)
+[12.796][FINER]:    Waiting for all views to stop loading...
+[12.796][FINER]:    Done waiting for all views to stop loading
+[12.811][FINER]:    Waiting for all views to stop loading...
+[12.811][FINER]:    Done waiting for all views to stop loading
+[12.811][FINE]:     Command finished (/session/1c8736f0fef37f51c757ae10371ea5d9/url) with response {
+   "sessionId": "1c8736f0fef37f51c757ae10371ea5d9",
+   "status": 0,
+   "value": "data:text/html,chromewebdata"
+}
+
+[12.819][FINE]:     Command received (/session/1c8736f0fef37f51c757ae10371ea5d9/frame) with params {
+   "id": null
+}
+
+[12.819][FINER]:    Waiting for all views to stop loading...
+[12.819][FINER]:    Done waiting for all views to stop loading
+[12.819][FINER]:    Waiting for all views to stop loading...
+[12.820][FINER]:    Done waiting for all views to stop loading
+[12.820][FINE]:     Command finished (/session/1c8736f0fef37f51c757ae10371ea5d9/frame) with response {
+   "sessionId": "1c8736f0fef37f51c757ae10371ea5d9",
+   "status": 0,
+   "value": {
+
+   }
+}
+
+[12.830][FINE]:     Command received (/session/1c8736f0fef37f51c757ae10371ea5d9/element) with params {
+   "using": "id",
+   "value": "login"
+}
+
+[12.830][FINER]:    Waiting for all views to stop loading...
+[12.834][FINER]:    Done waiting for all views to stop loading
+[12.849][FINER]:    Waiting for all views to stop loading...
+[12.849][FINER]:    Done waiting for all views to stop loading
+[12.849][WARNING]:  Command finished (/session/1c8736f0fef37f51c757ae10371ea5d9/element) with response {
+   "sessionId": "1c8736f0fef37f51c757ae10371ea5d9",
+   "status": 7,
+   "value": {
+      "message": "The element could not be found"
+   }
+}
+
+[12.851][FINE]:     Command received (/session/1c8736f0fef37f51c757ae10371ea5d9/element) with params {
+   "using": "xpath",
+   "value": ".//fieldset[@id='login']"
+}
+
+[12.851][FINER]:    Waiting for all views to stop loading...
+[12.851][FINER]:    Done waiting for all views to stop loading
+[12.863][FINER]:    Waiting for all views to stop loading...
+[12.863][FINER]:    Done waiting for all views to stop loading
+[12.863][WARNING]:  Command finished (/session/1c8736f0fef37f51c757ae10371ea5d9/element) with response {
+   "sessionId": "1c8736f0fef37f51c757ae10371ea5d9",
+   "status": 7,
+   "value": {
+      "message": "The element could not be found"
+   }
+}
+
+[12.880][FINE]:     Command received (/session/1c8736f0fef37f51c757ae10371ea5d9)
