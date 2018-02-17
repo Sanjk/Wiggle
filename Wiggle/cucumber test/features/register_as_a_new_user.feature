@@ -1,3 +1,4 @@
+@wip
 Feature: Register new user
 
   As a new user
